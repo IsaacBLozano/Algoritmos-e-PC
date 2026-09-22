@@ -165,7 +165,7 @@ Algoritmos-e-PC/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/Algoritmos-e-PC.git
+git clone https://github.com/IsaacBLozano/Algoritmos-e-PC.git
 cd Algoritmos-e-PC
 
 # 2. Entre na pasta do exercício desejado
@@ -203,7 +203,7 @@ gcc exercicio09.c -o exercicio09 -lm
 
 Estudante da disciplina de Algoritmos e Programação de Computadores
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-IsaacBLozano-181717?style=for-the-badge&logo=github)](https://github.com/IsaacBLozano)
 
 </div>
 
