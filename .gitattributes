@@ -1,0 +1,5 @@
+# Normaliza finais de linha no repositório
+* text=auto eol=lf
+*.c  text diff=cpp
+*.h  text diff=cpp
+*.md text

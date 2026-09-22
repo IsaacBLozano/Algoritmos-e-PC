@@ -1,0 +1,21 @@
+# Arquivos gerados na compilação
+*.exe
+*.o
+*.obj
+*.out
+a.out
+bin/
+obj/
+
+# Arquivos de projeto de IDEs (Code::Blocks, Dev-C++, VS Code)
+*.cbp
+*.depend
+*.layout
+*.dev
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
