@@ -199,7 +199,7 @@ gcc exercicio09.c -o exercicio09 -lm
 
 <div align="center">
 
-**Isaac Bonatto**
+**Isaac Lozano**
 
 Estudante da disciplina de Algoritmos e Programação de Computadores
 
@@ -210,5 +210,5 @@ Estudante da disciplina de Algoritmos e Programação de Computadores
 ---
 
 <div align="center">
-<sub>Feito com dedicação e muito <code>printf</code> por Isaac Bonatto.</sub>
+<sub>Feito com dedicação e muito <code>printf</code> por Isaac Lozano.</sub>
 </div>
